@@ -1,0 +1,24 @@
+[
+{
+    "id": "2",
+    "nom": "Gherbi Zineb Souhila",
+    "prix": "100 euro",
+    "email": "souhila@gmail.com",
+    "offres": {
+      "activités": {
+        "spa": "inclus",
+        "dinner": "non-inclus",
+        "piscine": "avec piscine",
+        "étoiles": "4 étoile",
+        "petit_déjeuner": "petit déjeuner inclus",
+        "centre_de_fitness": "avec centre_de_fitness"
+      },
+      "localisation": {
+        "lat": 10.486386,
+        "long": 34.033852
+      },
+      "choix_chambre": "chambre triple"
+    },
+    "address": "42 Colin Place, Spokane, Indiana"
+  }
+ ]
